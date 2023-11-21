@@ -1,0 +1,9 @@
+E:\Coding\Work\clock_test\Clock\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+E:\Coding\Work\clock_test\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+E:\Coding\Work\clock_test\Clock\Clock\bin\Debug\Clock.exe.config
+E:\Coding\Work\clock_test\Clock\Clock\bin\Debug\Clock.exe
+E:\Coding\Work\clock_test\Clock\Clock\bin\Debug\Clock.pdb
+E:\Coding\Work\clock_test\Clock\Clock\obj\Debug\Clock.exe
+E:\Coding\Work\clock_test\Clock\Clock\obj\Debug\Clock.pdb
+E:\Coding\Work\clock_test\Clock\Clock\obj\Debug\Clock.Form1.resources
+E:\Coding\Work\clock_test\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
